@@ -1,7 +1,7 @@
 # KotlinArtBook
 **Art Book app on Kotlin,includes RecyclerView and SQLite.**
 <br>
-**You can save the artworks in the app and see the name,creator and year of artwork.**
+**You can save the artworks in the app and see the name, creator and year it was created.**
 
 
 <img src="https://www.linkpicture.com/q/Screenshot_1631033482.png" data-canonical-src="https://www.linkpicture.com/q/Screenshot_1631033482.png" width="300" height="600" />
